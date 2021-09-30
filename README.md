@@ -1,4 +1,8 @@
-### Hello 👋
+## Bagisto Documentary 
+
+In this repository, you will get all the info about the Bagisto upgrades.
+
+## Maintainer
 
 I'm Devansh, one of the team members of [Bagisto](https://github.com/bagisto/bagisto).
 
